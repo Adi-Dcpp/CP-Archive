@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+
+# Binaries
+bin/
+build/
+cmake-build-*/
+
+# Debug
+*.log
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python cache (scripts)
+__pycache__/
+*.pyc
+
+# Local env
+.env
