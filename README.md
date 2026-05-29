@@ -11,6 +11,7 @@ CP-Archive is a long-term competitive programming knowledge base focused on clea
 
 ## Platforms
 - Codeforces (primary)
+- Codeforces profile: https://codeforces.com/profile/Adi-1205
 
 ## Folder Structure
 ```
