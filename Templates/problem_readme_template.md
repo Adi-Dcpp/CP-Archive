@@ -17,5 +17,6 @@
 .
 
 ## Complexity
-
+- Time: O(1) per test case
+- Space: O(1)
 

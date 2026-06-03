@@ -3,9 +3,9 @@
 - **Link:** https://codeforces.com/problemset/problem/1899/A
 - **Platform:** Codeforces
 - **Rating:** 800
-- **Tags:** games, math, number theory, <tag2>
-- **Status:** <Solved | Upsolved | Review>
-- **Last Updated:** <YYYY-MM-DD>
+- **Tags:** games, math, number theory
+- **Status:** Solved 
+- **Last Updated:** 2026-06-03
 
 ## Problem Description
 Vanya and Vova are playing a game. Players are given an integer n
