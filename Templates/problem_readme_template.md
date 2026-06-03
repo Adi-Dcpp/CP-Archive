@@ -3,8 +3,8 @@
 - **Link:** <Problem URL>
 - **Platform:** Codeforces
 - **Rating:** <Rating>
-- **Tags:** <tag1>, <tag2>
-- **Status:** <Solved | Upsolved | Review>
+- **Tags:** <tag1>,
+- **Status:** Solved
 - **Last Updated:** <YYYY-MM-DD>
 
 ## Problem Description
@@ -14,7 +14,7 @@
 
 
 ## Output
-.
+
 
 ## Complexity
 - Time: O(1) per test case
